@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-arifur" alt="dev-arifur" /></a> </p>
 
-- 🔭 I’m currently working on [Fiverr](https://github.com/dev-arifur)
+- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/dev_arfiur/buying?source=avatar_menu_profile)
 
 - 🌱 I’m currently learning **Javascript | Wordpress | MySQL | PHP**
 
-- 👯 I’m looking to collaborate on [Freelancer](https://github.com/dev-arifur)
+- 👯 I’m looking to collaborate on [Freelancer](https://www.freelancer.com/u/devarifur)
 
 - 🤝 I’m looking for help with [Web Design & Development](https://github.com/dev-arifur)
 
