@@ -1,4 +1,4 @@
-<img src="https://scontent.fcgp32-1.fna.fbcdn.net/v/t39.30808-6/466644961_543205345004902_8717000419513313204_n.png?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=0zb3FidTPx0Q7kNvgEvvyp1&_nc_zt=23&_nc_ht=scontent.fcgp32-1.fna&_nc_gid=AH1EQTYI7HyNBp-z2eo9NIP&oh=00_AYA60y9uT5rmloPG7CJE2iexc-fFY0Qv6vu89QIX7WkxDQ&oe=673773BC">
+<img src="https://i.ibb.co.com/ZYMvpg9/Black-and-White-Gradient-Personal-Linked-In-Banner.png">
 
 <h1 align="center">Hi 👋, I'm Arifur Rahman</h1>
 <h3 align="center">Building Scalable, High-Performance Websites</h3>
